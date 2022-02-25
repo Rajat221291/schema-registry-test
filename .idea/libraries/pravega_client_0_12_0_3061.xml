@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="pravega-client-0.12.0-3061">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../pravega/build/distributions/pravega-client-0.12.0-3061.f688b75-SNAPSHOT/pravega-client-0.12.0-3061.f688b75-SNAPSHOT" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../pravega/build/distributions/pravega-client-0.12.0-3061.f688b75-SNAPSHOT/pravega-client-0.12.0-3061.f688b75-SNAPSHOT" recursive="false" />
+  </library>
+</component>

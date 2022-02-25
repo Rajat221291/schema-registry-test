@@ -1,0 +1,38 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../schema-registry/build/distributions/schema-registry-0.4.0-78.f1b3eef-SNAPSHOT/schema-registry-0.4.0-78.f1b3eef-SNAPSHOT/lib" />
+      <root url="file://$PROJECT_DIR$/../schema-registry/build/distributions/schema-registry-avro-serializer-0.4.0-78.f1b3eef-SNAPSHOT/schema-registry-avro-serializer-0.4.0-78.f1b3eef-SNAPSHOT" />
+      <root url="file://$PROJECT_DIR$/../schema-registry/build/distributions/schema-registry-client-0.4.0-78.f1b3eef-SNAPSHOT/schema-registry-client-0.4.0-78.f1b3eef-SNAPSHOT" />
+      <root url="file://$PROJECT_DIR$/../schema-registry/build/distributions/schema-registry-json-serializer-0.4.0-78.f1b3eef-SNAPSHOT/schema-registry-json-serializer-0.4.0-78.f1b3eef-SNAPSHOT" />
+      <root url="file://$PROJECT_DIR$/../schema-registry/build/distributions/schema-registry-protobuf-serializer-0.4.0-78.f1b3eef-SNAPSHOT/schema-registry-protobuf-serializer-0.4.0-78.f1b3eef-SNAPSHOT" />
+      <root url="file://$PROJECT_DIR$/../schema-registry/build/distributions/schema-registry-serializers-0.4.0-78.f1b3eef-SNAPSHOT/schema-registry-serializers-0.4.0-78.f1b3eef-SNAPSHOT" />
+      <root url="file://$PROJECT_DIR$/../pravega/build/distributions/pravega-0.12.0-3061.f688b75-SNAPSHOT/pravega-0.12.0-3061.f688b75-SNAPSHOT/lib" />
+      <root url="file://$PROJECT_DIR$/../pravega/build/distributions/pravega-client-0.12.0-3061.f688b75-SNAPSHOT/pravega-client-0.12.0-3061.f688b75-SNAPSHOT" />
+      <root url="file://$PROJECT_DIR$/../pravega/build/distributions/pravega-0.12.0-3061.f688b75-SNAPSHOT/pravega-0.12.0-3061.f688b75-SNAPSHOT/lib" />
+      <root url="jar://$PROJECT_DIR$/../pravega/controller/build/libs/pravega-controller-0.12.0-3061.f688b75-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../pravega/controller/build/libs/pravega-controller-pathing-0.12.0-3061.f688b75-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../pravega/common/build/libs/pravega-common-0.12.0-3061.f688b75-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../pravega/common/build/libs/pravega-common-0.12.0-3061.f688b75-SNAPSHOT-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../pravega/common_server/build/libs/pravega-common_server-0.12.0-3061.f688b75-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../pravega/shared/security/build/libs/pravega-shared-security-0.12.0-3061.f688b75-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../pravega/build/distributions/pravega-0.12.0-3061.f688b75-SNAPSHOT/pravega-0.12.0-3061.f688b75-SNAPSHOT/lib" />
+      <root url="file://$PROJECT_DIR$/../pravega/build/distributions/pravega-0.12.0-3061.f688b75-SNAPSHOT/pravega-0.12.0-3061.f688b75-SNAPSHOT/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../pravega/build/distributions/pravega-0.12.0-3061.f688b75-SNAPSHOT/pravega-0.12.0-3061.f688b75-SNAPSHOT/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../pravega/build/distributions/pravega-0.12.0-3061.f688b75-SNAPSHOT/pravega-0.12.0-3061.f688b75-SNAPSHOT/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../pravega/build/distributions/pravega-client-0.12.0-3061.f688b75-SNAPSHOT/pravega-client-0.12.0-3061.f688b75-SNAPSHOT" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../schema-registry/build/distributions/schema-registry-0.4.0-78.f1b3eef-SNAPSHOT/schema-registry-0.4.0-78.f1b3eef-SNAPSHOT/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../schema-registry/build/distributions/schema-registry-avro-serializer-0.4.0-78.f1b3eef-SNAPSHOT/schema-registry-avro-serializer-0.4.0-78.f1b3eef-SNAPSHOT" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../schema-registry/build/distributions/schema-registry-client-0.4.0-78.f1b3eef-SNAPSHOT/schema-registry-client-0.4.0-78.f1b3eef-SNAPSHOT" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../schema-registry/build/distributions/schema-registry-json-serializer-0.4.0-78.f1b3eef-SNAPSHOT/schema-registry-json-serializer-0.4.0-78.f1b3eef-SNAPSHOT" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../schema-registry/build/distributions/schema-registry-protobuf-serializer-0.4.0-78.f1b3eef-SNAPSHOT/schema-registry-protobuf-serializer-0.4.0-78.f1b3eef-SNAPSHOT" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../schema-registry/build/distributions/schema-registry-serializers-0.4.0-78.f1b3eef-SNAPSHOT/schema-registry-serializers-0.4.0-78.f1b3eef-SNAPSHOT" recursive="false" />
+    <jarDirectory url="jar://$PROJECT_DIR$/../pravega/controller/build/libs/pravega-controller-pathing-0.12.0-3061.f688b75-SNAPSHOT.jar!/" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../pravega/build/distributions/pravega-0.12.0-3061.f688b75-SNAPSHOT/pravega-0.12.0-3061.f688b75-SNAPSHOT/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../pravega/build/distributions/pravega-0.12.0-3061.f688b75-SNAPSHOT/pravega-0.12.0-3061.f688b75-SNAPSHOT/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
