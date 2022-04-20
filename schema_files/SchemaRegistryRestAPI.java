@@ -26,7 +26,7 @@ import java.util.Map;
 
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 public class SchemaRegistryRestAPI {
-    private static String schemaRegistryURI = "http://10.243.41.97:9092";
+    private static String schemaRegistryURI = "http://10.243.41.93:9092";
     private static String resourceURl;
     private static Client client;
     private WebTarget webTarget;

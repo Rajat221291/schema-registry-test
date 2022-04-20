@@ -49,8 +49,8 @@ import static org.junit.Assert.assertEquals;
 
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 public class CompressionIOTests {
-    private static String schemaRegistryURI = "http://10.243.41.97:9092";
-    private static String controllerURI = "tcp://10.243.41.69:9090";
+    private static String schemaRegistryURI = "http://10.243.41.62:9092";
+    private static String controllerURI = "tcp://10.243.41.90:9090";
     private static ClientConfig clientConfig;
     private static SchemaRegistryClient schemaRegistryClient;
     private static final String scope = "scope" + System.currentTimeMillis();

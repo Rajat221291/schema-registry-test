@@ -19,7 +19,7 @@ import static javax.ws.rs.core.Response.Status.*;
 import static org.junit.Assert.assertEquals;
 
 public class SchemaVersionTests {
-    private static String schemaRegistryURI = "http://10.243.41.97:9092";
+    private static String schemaRegistryURI = "http://10.243.41.62:9092";
     private static String resourceURl;
     private static Client client;
     private WebTarget webTarget;

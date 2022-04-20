@@ -33,9 +33,9 @@ import static javax.ws.rs.core.Response.Status.*;
 import static org.junit.Assert.assertEquals;
 
 public class SchemaRegistryP1Tests {
-    private static String schemaRegistryURI = "http://10.243.41.97:9092";
-    private static String controllerRestURI = "http://10.243.41.69:10080";
-    private static String controllerURI = "tcp://10.243.41.69:9090";
+    private static String schemaRegistryURI = "http://10.243.41.92:9092";
+    private static String controllerRestURI = "http://10.243.41.62:10080";
+    private static String controllerURI = "tcp://10.243.41.62:9090";
     private static String resourceURl;
     private static Client client;
     private static String groupName1 = "grp"+ System.currentTimeMillis();

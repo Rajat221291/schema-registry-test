@@ -40,8 +40,8 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
 public class AvroCompatibilityBasicTests {
-    private static String schemaRegistryURI = "http://10.243.41.97:9092";
-    private static String controllerURI = "tcp://10.243.41.69:9090";
+    private static String schemaRegistryURI = "http://10.243.41.92:9092";
+    private static String controllerURI = "tcp://10.243.41.62:9090";
     private static ClientConfig clientConfig;
     private static SchemaRegistryClient schemaRegistryClient;
     private static String resourceURl;
